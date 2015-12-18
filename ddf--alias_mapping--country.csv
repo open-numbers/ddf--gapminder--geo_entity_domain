@@ -1,0 +1,418 @@
+geo,alias
+abkh,_abk
+abkh,Abkhazia
+abkh,GE-AB
+abkh,_ABK
+abkh,i0
+afg,afg
+afg,Afghanistan
+afg,Islamic Republic of Afghanistan
+afg,AFGHANISTAN
+afg,AF
+afg,AFG
+afg,4
+afg,i1
+akr_a_dhe,_akr
+akr_a_dhe,Akrotiri and Dhekelia
+akr_a_dhe,Akrotiri_Dhekelia
+akr_a_dhe,_AKR
+akr_a_dhe,i2
+alb,alb
+alb,Albania
+alb,ALBANIA
+alb,AL
+alb,ALB
+alb,8
+alb,i3
+dza,dza
+dza,Algeria
+dza,ALGERIA
+dza,DZ
+dza,DZA
+dza,12
+dza,i4
+asm,asm
+asm,American Samoa
+asm,AS
+asm,ASM
+asm,AMERICAN SAMOA
+asm,16
+asm,i5
+and,and
+and,Andorra
+and,AD
+and,AND
+and,ANDORRA
+and,20
+and,i6
+ago,ago
+ago,Angola
+ago,ANGOLA
+ago,AO
+ago,AGO
+ago,24
+ago,i7
+aia,aia
+aia,Anguilla
+aia,AI
+aia,AIA
+aia,ANGUILLA
+aia,660
+aia,i8
+atg,atg
+atg,Antigua and Barbuda
+atg,Antigua & Barbuda
+atg,AG
+atg,ATG
+atg,ANTIGUA AND BARBUDA
+atg,28
+atg,i9
+arg,arg
+arg,Argentina
+arg,ARGENTINA
+arg,AR
+arg,ARG
+arg,32
+arg,i10
+arm,arm
+arm,Armenia
+arm,ARMENIA
+arm,AM
+arm,ARM
+arm,51
+arm,i11
+abw,abw
+abw,Aruba
+abw,AW
+abw,ABW
+abw,ARUBA
+abw,533
+abw,i12
+aus,aus
+aus,Australia
+aus,AUSTRALIA
+aus,AU
+aus,AUS
+aus,36
+aus,i13
+aut,aut
+aut,Austria
+aut,AUSTRIA
+aut,AT
+aut,AUT
+aut,40
+aut,i14
+aze,aze
+aze,Azerbaijan
+aze,AZERBAIJAN
+aze,AZ
+aze,AZE
+aze,31
+aze,i15
+bhs,bhs
+bhs,Bahamas
+bhs,"Bahamas, The"
+bhs,The Bahamas
+bhs,BS
+bhs,BHS
+bhs,BAHAMAS
+bhs,44
+bhs,i16
+bhr,bhr
+bhr,Bahrain
+bhr,Bahrein
+bhr,BAHRAIN
+bhr,BH
+bhr,BHR
+bhr,48
+bhr,i17
+bgd,bgd
+bgd,Bangladesh
+bgd,BD
+bgd,BGD
+bgd,BANGLADESH
+bgd,50
+bgd,i18
+brb,brb
+brb,Barbados
+brb,BB
+brb,BRB
+brb,BARBADOS
+brb,52
+brb,i19
+blr,blr
+blr,Belarus
+blr,BELARUS
+blr,BY
+blr,BLR
+blr,112
+blr,i20
+bel,bel
+bel,Belgium
+bel,BELGIUM
+bel,BE
+bel,BEL
+bel,56
+bel,i21
+blz,blz
+blz,Belize
+blz,BELIZE
+blz,BZ
+blz,BLZ
+blz,84
+blz,i22
+ben,ben
+ben,Benin
+ben,BENIN
+ben,BJ
+ben,BEN
+ben,204
+ben,i23
+bmu,bmu
+bmu,Bermuda
+bmu,BM
+bmu,BMU
+bmu,BERMUDA
+bmu,60
+bmu,i24
+btn,btn
+btn,Bhutan
+btn,BT
+btn,BTN
+btn,BHUTAN
+btn,64
+btn,i25
+bol,bol
+bol,Bolivia
+bol,Bolivia (Plurinational State of)
+bol,Bolivia Plurinational States of 
+bol,BOLIVIA
+bol,BO
+bol,BOL
+bol,68
+bol,i26
+bih,bih
+bih,Bosnia and Herzegovina
+bih,Bosnia & Herzegovina
+bih,Bosnia Herzegovena
+bih,Bosnia and H.
+bih,Bosnia & Herzegovinia
+bih,BOSNIA & HERZEGOVINA
+bih,BA
+bih,BIH
+bih,BOSNIA AND HERZEGOWINA
+bih,70
+bih,i27
+bih,Bosnia-Herzegovina
+bih,Bosnia
+bwa,bwa
+bwa,Botswana
+bwa,BOTSWANA
+bwa,BW
+bwa,BWA
+bwa,72
+bwa,i28
+bra,bra
+bra,Brazil
+bra,BRAZIL
+bra,BR
+bra,BRA
+bra,76
+bra,i29
+vgb,vgb
+vgb,British Virgin Islands
+vgb,VG
+vgb,VGB
+vgb,VIRGIN ISLANDS (BRITISH)
+vgb,92
+vgb,i30
+brn,brn
+brn,Brunei
+brn,Brunei Darussalam
+brn,Brunei (Darussalam)
+brn,BN
+brn,BRN
+brn,BRUNEI DARUSSALAM
+brn,96
+brn,i31
+bgr,bgr
+bgr,Bulgaria
+bgr,BULGARIA
+bgr,BG
+bgr,BGR
+bgr,100
+bgr,i32
+bfa,bfa
+bfa,Burkina Faso
+bfa,BURKINA FASO
+bfa,BF
+bfa,BFA
+bfa,854
+bfa,i33
+bfa,Burkina_Faso
+bdi,bdi
+bdi,Burundi
+bdi,BURUNDI
+bdi,BI
+bdi,BDI
+bdi,108
+bdi,i34
+khm,khm
+khm,Cambodia
+khm,KH
+khm,KHM
+khm,CAMBODIA
+khm,116
+khm,i35
+cmr,cmr
+cmr,Cameroon
+cmr,Republic Of Cameroon
+cmr,CAMEROON
+cmr,CM
+cmr,CMR
+cmr,120
+cmr,i36
+can,can
+can,Canada
+can,CANADA
+can,CA
+can,CAN
+can,124
+can,i37
+cpv,cpv
+cpv,Cape Verde
+cpv,Cabo Verde
+cpv,CV
+cpv,CPV
+cpv,CAPE VERDE
+cpv,132
+cpv,i38
+cym,cym
+cym,Cayman Islands
+cym,KY
+cym,CYM
+cym,CAYMAN ISLANDS
+cym,136
+cym,i39
+caf,caf
+caf,Central African Republic
+caf,Central African Rep.
+caf,Central AfR
+caf,CENTRAL AFRICAN REPUBLIC
+caf,CF
+caf,CAF
+caf,140
+caf,i40
+caf,CAR
+tcd,tcd
+tcd,Chad
+tcd,CHAD
+tcd,TD
+tcd,TCD
+tcd,148
+tcd,i41
+chanisl,_cis
+chanisl,Channel Islands
+chanisl,Channel_Islands
+chanisl,_CIS
+chanisl,i42
+chl,chl
+chl,Chile
+chl,CHILE
+chl,CL
+chl,CHL
+chl,152
+chl,i43
+chn,chn
+chn,China
+chn,China (Mainland)
+chn,CHINA
+chn,CN
+chn,CHN
+chn,156
+chn,i44
+chn,"China, People's Republic of"
+cxr,cxr
+cxr,Christmas Island
+cxr,CX
+cxr,CXR
+cxr,CHRISTMAS ISLAND
+cxr,162
+cxr,i45
+cck,cck
+cck,Cocos Island
+cck,CC
+cck,CCK
+cck,COCOS (KEELING) ISLANDS
+cck,166
+cck,i46
+col,col
+col,Colombia
+col,COLOMBIA
+col,CO
+col,COL
+col,170
+col,i47
+com,com
+com,Comoros
+com,Comores
+com,Comoro Islands
+com,KM
+com,COM
+com,COMOROS
+com,174
+com,i48
+cod,cod
+cod,"Congo, Dem. Rep."
+cod,Congo_Democratic_Republic
+cod,Congo (Democratic Republic of the)
+cod,Congo Dem Rep
+cod,Democratic Republic of Congo
+cod,Democratic Republic Of The Congo (Formerly Zaire)
+cod,"CONGO, DEM REP"
+cod,CD
+cod,COD
+cod,"CONGO, Democratic Republic of (was Zaire)"
+cod,180
+cod,i49
+cod,Congo DR
+cod,"Congo, Democratic Republic of"
+cod,Congo [DRC]
+cod,Congo - Kinshasa
+cod,Dem. Rep. Congo
+cod,Democratic Republic of the Congo
+cod,Zaire
+cod,DR Congo
+cod,"Congo, the deomcratic republic of the"
+cog,cog
+cog,"Congo, Rep."
+cog,Congo (Republic of)
+cog,Congo Brazzaville
+cog,Republic of Congo
+cog,Congo
+cog,"CONGO, REPUBLIC OF THE"
+cog,CG
+cog,COG
+cog,"CONGO, Republic of"
+cog,178
+cog,i50
+cog,Cong
+cog,Congo_Brazzaville
+cok,cok
+cok,Cook Is
+cok,Cook Islands
+cok,CK
+cok,COK
+cok,COOK ISLANDS
+cok,184
+cok,i51
+cri,cri
+cri,Costa Rica
+cri,COSTA RICA
+cri,CR
+cri,CRI
+cri,188
+cri,i52
+civ,civ
+civ,Cote d'Ivoire
+civ,Cote Divoire

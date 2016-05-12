@@ -4,12 +4,10 @@ Thei dataset defines countries and territories frequently used across many other
 ## How to update
 Manually edited csv files.
 
-### ddf--alias_mapping--country.csv
-The first column contains the gapminder-id (lower case 3-digit iso) The second column contains an alias. This means the same country appears on multiple rows.
-#### Adding another alias
-If you find a new name or spelling of a country name, please add one more row to the file. 
-#### Using the alias mapping
-External datasets are joined with matching rows of the alias column and mapped to the geo-id in the geo column.
+### ddf--entities--geo--country.csv
+The first column contains the gapminder-id (lower case 3-digit iso), and alternative names are in
+columns "alternative_1" to "alt_5". You can add more columns if necessary. also please update
+ddf--concepts.csv to include new column.
 
 ## License
 Gapmidner created this dataset and provides it under [Creative Common Attribution 4.0 International][CC].

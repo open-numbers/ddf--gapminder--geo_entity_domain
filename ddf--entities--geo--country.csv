@@ -56,10 +56,10 @@ cod,i49,"Congo, Dem. Rep.",sub_saharan_africa,low_income,landlocked,g77,christia
 cog,i50,"Congo, Rep.",sub_saharan_africa,lower_middle_income,coastline,g77,christian,"Congo, Rep.",Congo (Republic of),Congo Brazzaville,Republic of Congo,Congo,"CONGO, REPUBLIC OF THE",CG,Congo - Brazzaville,"CONGO, Republic of",COG,178,Cong,Congo_Brazzaville,,,,,TRUE,africa,-1.0,15.5
 cok,i51,Cook Is,east_asia_pacific,,coastline,others,christian,Cook Islands,Cook Is,,,Cook Islands,,CK,,COOK ISLANDS,COK,184,,,,,,,TRUE,asia,-21.24842,-159.78516
 cri,i52,Costa Rica,america,upper_middle_income,coastline,g77,christian,Costa Rica,,,,Costa Rica,COSTA RICA,CR,,COSTA RICA,CRI,188,,,,,,,TRUE,americas,10.0,-84.0
-civ,i53,Cote d'Ivoire,sub_saharan_africa,lower_middle_income,coastline,g77,,Cote d'Ivoire,Cote Divoire,Côte d'Ivoire,CÃ´te d'Ivoire,Cote D Ivoire,COTE D'IVOIRE,CI,Ivory Coast,COTE D'IVOIRE,CIV,384,CÃ´te dâ€™Ivoire,Cote d&apos;Ivoire,Cote_dIvoire,,,,TRUE,africa,8.0,-5.5
+civ,i53,Cote d'Ivoire,sub_saharan_africa,lower_middle_income,coastline,g77,,Cote d'Ivoire,Cote Divoire,Côte d'Ivoire,Côte d'Ivoire,Cote D Ivoire,COTE D'IVOIRE,CI,Ivory Coast,COTE D'IVOIRE,CIV,384,Côte d'Ivoire,Cote d'Ivoire,Cote_dIvoire,,,,TRUE,africa,8.0,-5.5
 hrv,i54,Croatia,europe_central_asia,high_income,coastline,others,christian,Croatia,,,,Croatia,CROATIA,HR,,CROATIA (local name: Hrvatska),HRV,191,,,,,,,TRUE,europe,45.16667,15.5
 cub,i55,Cuba,america,upper_middle_income,coastline,g77,christian,Cuba,,,,Cuba,,CU,,CUBA,CUB,192,,,,,,,TRUE,americas,22.0,-79.5
-nld_curacao,i280,Curaçao,,high_income,,,,,,,,,,CW,,,,,,,,,,,TRUE,americas,12.16667,-68.96667
+nld_curacao,i280,Curaçao,america,high_income,coastline,others,christian,,,,,,,CW,,,,,,,,,,,TRUE,americas,12.16667,-68.96667
 cyp,i56,Cyprus,europe_central_asia,high_income,coastline,others,christian,Cyprus,,,,Cyprus,CYPRUS,CY,,CYPRUS,CYP,196,,,,,,,TRUE,europe,35.0,33.0
 cze,i57,Czech Republic,europe_central_asia,high_income,landlocked,oecd,christian,Czech Rep.,Czech Republic,Czech Rep,,Czech Republic,CZECH REPUBLIC,CZ,,CZECH REPUBLIC,CZE,203,,,,,,,TRUE,europe,49.75,15.0
 cheslo,i58,Czechoslovakia,europe_central_asia,,landlocked,others,,Czechoslovakia,,,,Czechoslovakia,,Czechoslovakia,,,,,,,,,,,TRUE,europe,,

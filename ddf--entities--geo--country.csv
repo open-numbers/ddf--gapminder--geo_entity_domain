@@ -205,7 +205,7 @@ scg_ex_kos,i200,Serbia excluding Kosovo,europe_central_asia,,landlocked,others,,
 syc,i201,Seychelles,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Seychelles,,,,Seychelles,,SC,,SEYCHELLES,SYC,690,,,,,,,TRUE,africa,-4.58333,55.66667
 sle,i202,Sierra Leone,sub_saharan_africa,low_income,coastline,g77,,Sierra Leone,SierraLeo,,,Sierra Leone,SIERRA LEONE,SL,,SIERRA LEONE,SLE,694,Sierra_Leone,,,,,,TRUE,africa,8.5,-11.5
 sgp,i203,Singapore,east_asia_pacific,high_income,coastline,g77,eastern_religions,Singapore,,,,Singapore,SINGAPORE,SG,,SINGAPORE,SGP,702,,,,,,,TRUE,asia,1.28967,103.85007
-sxm,i271,Saint Martin (Dutch part),,high_income,,,,,,,,,,SX,,SAINT MARTIN (DUTCH PORTION),,,,,,,,,TRUE,americas,18.04167,-63.06667
+sxm,i271,Sint Maarten (Dutch part),,high_income,,,,,,,,,,SX,,SAINT MARTIN (DUTCH PORTION),,,,,,,,,TRUE,americas,18.04167,-63.06667
 svk,i204,Slovak Republic,europe_central_asia,high_income,landlocked,oecd,christian,Slovak Republic,Slovak Rep,Slovak Rep.,,Slovakia,SLOVAKIA,SK,,SLOVAKIA,SVK,703,,,,,,,TRUE,europe,48.66667,19.5
 svn,i205,Slovenia,europe_central_asia,high_income,coastline,others,christian,Slovenia,,,,Slovenia,SLOVENIA,SI,,SLOVENIA,SVN,705,,,,,,,TRUE,europe,46.08333,15.0
 slb,i206,Solomon Islands,east_asia_pacific,lower_middle_income,coastline,g77,christian,Solomon Islands,Solomon Isl.,,,Solomon Islands,,SB,,SOLOMON ISLANDS,SLB,90,,,,,,,TRUE,asia,-8.0,159.0

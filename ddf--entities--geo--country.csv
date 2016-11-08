@@ -105,7 +105,7 @@ hti,i95,Haiti,america,low_income,coastline,g77,christian,Haiti,,,,Haiti,HAITI,HT
 heard_a_mcd,,Heard and McDonald Islands,,,,,,,,,,,,HM,,,,,,,,,,,TRUE,asia,,
 hos,i96,Holy See,europe_central_asia,,landlocked,others,christian,Holy See,,,,Holy_See,,VA,,,,,Vatican City,,,,,,TRUE,europe,41.90236,12.45332
 hnd,i97,Honduras,america,lower_middle_income,coastline,g77,christian,Honduras,,,,Honduras,HONDURAS,HN,,HONDURAS,HND,340,,,,,,,TRUE,americas,15.0,-86.5
-hkg,i98,"Hong Kong, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Hong Kong, China","Hong Kong, China (SAR)",Hongkong,Hong Kong SAR,Hong Kong,HONG KONG,HK,"Hong Kong SAR, China",HONG KONG,HKG,344,"China, Hong Kong SAR",,,,,,TRUE,asia,22.28552,114.15769
+hkg,i98,"Hong Kong, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Hong Kong, China","Hong Kong, China (SAR)",Hongkong,Hong Kong SAR,Hong Kong,HONG KONG,HK,"Hong Kong SAR, China",HONG KONG,HKG,344,"China, Hong Kong SAR",HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,,,,,TRUE,asia,22.28552,114.15769
 hun,i99,Hungary,europe_central_asia,upper_middle_income,landlocked,oecd,christian,Hungary,,,,Hungary,HUNGARY,HU,,HUNGARY,HUN,348,,,,,,,TRUE,europe,47.0,20.0
 isl,i100,Iceland,europe_central_asia,high_income,coastline,oecd,christian,Iceland,,,,Iceland,,IS,,ICELAND,ISL,352,,,,,,,TRUE,europe,65.0,-18.0
 ind,i101,India,south_asia,lower_middle_income,coastline,g77,eastern_religions,India,,,,India,INDIA,IN,,INDIA,IND,356,,,,,,,TRUE,asia,22.0,79.0
@@ -135,7 +135,7 @@ lby,i126,Libya,middle_east_north_africa,upper_middle_income,coastline,g77,muslim
 lie,i127,Liechtenstein,europe_central_asia,high_income,landlocked,others,christian,Liechtenstein,,,,,,LI,,LIECHTENSTEIN,LIE,438,,,,,,,TRUE,europe,47.16667,9.53333
 ltu,i128,Lithuania,europe_central_asia,high_income,coastline,others,christian,Lithuania,,,,Lithuania,LITHUANIA,LT,,LITHUANIA,LTU,440,,,,,,,TRUE,europe,55.41667,24.0
 lux,i129,Luxembourg,europe_central_asia,high_income,landlocked,oecd,christian,Luxembourg,,,,Luxembourg,,LU,,LUXEMBOURG,LUX,442,,,,,,,TRUE,europe,49.61167,6.13
-mac,i130,"Macao, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Macao, China",Macau,Macao,"China, Macao SAR",Macau,,MO,,MACAU,MAC,446,"Macao SAR, China",,,,,,TRUE,asia,22.20056,113.54611
+mac,i130,"Macao, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Macao, China",Macau,Macao,"China, Macao SAR",Macau,,MO,MACAU SPECIAL ADMINISTRATIVE REGION OF CHINA,MACAU,MAC,446,"Macao SAR, China",,,,,,TRUE,asia,22.20056,113.54611
 mkd,i131,"Macedonia, FYR",europe_central_asia,upper_middle_income,landlocked,others,christian,"Macedonia, FYR",Macedonia,T.F.Y.R. Macedonia,TFYR Macedonia,Macedonia,MACEDONIA,MK,The former Yugoslav Republic of Macedonia,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",MKD,807,Macedonia [FYROM],FYR Macedonia,,,,,TRUE,europe,41.66667,21.75
 mdg,i132,Madagascar,sub_saharan_africa,low_income,coastline,g77,,Madagascar,,,,Madagascar,MADAGASCAR,MG,,MADAGASCAR,MDG,450,,,,,,,TRUE,africa,-20.0,47.0
 mwi,i133,Malawi,sub_saharan_africa,low_income,landlocked,g77,christian,Malawi,,,,Malawi,MALAWI,MW,,MALAWI,MWI,454,,,,,,,TRUE,africa,-13.5,34.0

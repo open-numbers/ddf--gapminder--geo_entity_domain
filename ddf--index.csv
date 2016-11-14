@@ -24,8 +24,9 @@ country,pandg,ddf--entities--geo--country.csv
 country,god_id,ddf--entities--geo--country.csv
 country,alt_5,ddf--entities--geo--country.csv
 country,upper_case_name,ddf--entities--geo--country.csv
-country,code,ddf--entities--geo--country.csv
-country,number,ddf--entities--geo--country.csv
+country,iso3166_1_alpha2,ddf--entities--geo--country.csv
+country,iso3166_1_alpha3,ddf--entities--geo--country.csv
+country,iso3166_1_numeric,ddf--entities--geo--country.csv
 country,arb1,ddf--entities--geo--country.csv
 country,arb2,ddf--entities--geo--country.csv
 country,arb3,ddf--entities--geo--country.csv

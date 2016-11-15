@@ -27,6 +27,8 @@ country,upper_case_name,ddf--entities--geo--country.csv
 country,iso3166_1_alpha2,ddf--entities--geo--country.csv
 country,iso3166_1_alpha3,ddf--entities--geo--country.csv
 country,iso3166_1_numeric,ddf--entities--geo--country.csv
+country,iso3166_2,ddf--entities--geo--country.csv
+country,unicode_region_subtag,ddf--entities--geo--country.csv
 country,arb1,ddf--entities--geo--country.csv
 country,arb2,ddf--entities--geo--country.csv
 country,arb3,ddf--entities--geo--country.csv

@@ -22,8 +22,11 @@ pandg,pandg,string,,,,,,,_none
 god_id,GOD_ID,string,,,,,,,_none
 alt_5,ALT 5,string,,,,,,,_none
 upper_case_name,Upper Case Name,string,,,,,,,_none
-code,CODE,string,,,,,,,_none
-number,Number,string,,,,,,,_none
+iso3166_1_alpha2,ISO 3166-1 alpha-2,string,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,,_none
+iso3166_1_alpha3,ISO 3166-1 alpha-3,string,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,,_none
+iso3166_1_numeric,ISO 3166-1 numeric,string,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,,_none
+iso3166_2,ISO 3166-2,string,,https://en.wikipedia.org/wiki/ISO_3166-2,,,,,
+unicode_region_subtag,Unicode CLDR Region subtag,string,,http://www.unicode.org/reports/tr35/#unicode_region_subtag_validity,,,,,
 gwid,Gwid,string,,,,,,,_none
 arb1,arb1,string,,,,,,,_none
 arb2,arb2,string,,,,,,,_none

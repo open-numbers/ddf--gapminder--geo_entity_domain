@@ -24,8 +24,11 @@ country,pandg,ddf--entities--geo--country.csv
 country,god_id,ddf--entities--geo--country.csv
 country,alt_5,ddf--entities--geo--country.csv
 country,upper_case_name,ddf--entities--geo--country.csv
-country,code,ddf--entities--geo--country.csv
-country,number,ddf--entities--geo--country.csv
+country,iso3166_1_alpha2,ddf--entities--geo--country.csv
+country,iso3166_1_alpha3,ddf--entities--geo--country.csv
+country,iso3166_1_numeric,ddf--entities--geo--country.csv
+country,iso3166_2,ddf--entities--geo--country.csv
+country,unicode_region_subtag,ddf--entities--geo--country.csv
 country,arb1,ddf--entities--geo--country.csv
 country,arb2,ddf--entities--geo--country.csv
 country,arb3,ddf--entities--geo--country.csv
@@ -42,6 +45,7 @@ g77_and_oecd_countries,gwid,ddf--entities--geo--g77_and_oecd_countries.csv
 g77_and_oecd_countries,is--g77_and_oecd_countries,ddf--entities--geo--g77_and_oecd_countries.csv
 geo,is--global,ddf--entities--geo--global.csv
 geo,name,ddf--entities--geo--global.csv
+geo,unicode_region_subtag,ddf--entities--geo--global.csv
 geo,latitude,ddf--entities--geo--global.csv
 geo,longitude,ddf--entities--geo--global.csv
 income_groups,name,ddf--entities--geo--income_groups.csv

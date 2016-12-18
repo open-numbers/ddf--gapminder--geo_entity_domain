@@ -159,7 +159,7 @@ msr,i149,Montserrat,america,,coastline,others,christian,Montserrat,,,,Montserra,
 mar,i150,Morocco,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Morocco,,,,Morocc,MOROCCO,MA,,MOROCCO,MA,MAR,504,,MA,,,,,,,TRUE,africa,32.0,-6.0
 moz,i151,Mozambique,sub_saharan_africa,low_income,coastline,g77,christian,Mozambique,,,,Mozambique,MOZAMBIQUE,MZ,,MOZAMBIQUE,MZ,MOZ,508,,MZ,,,,,,,TRUE,africa,-18.25,35.0
 mmr,i152,Myanmar,east_asia_pacific,low_income,coastline,g77,eastern_religions,Myanmar,Burma,Myanmar/Burma,MYANMAR (FORMERLY BURMA),Myanmar,,MM,Myanmar [Burma],MYANMAR,MM,MMR,104,,MM,,,,,,,TRUE,asia,21.0,96.0
-nam,i153,Namibia,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Namibia,,,,Namibia,NAMIBIA,,,NAMIBIA,,NAM,516,,,,,,,,,TRUE,africa,-22.0,17.0
+nam,i153,Namibia,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Namibia,,,,Namibia,NAMIBIA,NA,,NAMIBIA,NA,NAM,516,,NA,,,,,,,TRUE,africa,-22.0,17.0
 nru,i154,Nauru,east_asia_pacific,,coastline,others,christian,Nauru,,,,Nauru,,NR,,NAURU,NR,NRU,520,,NR,,,,,,,TRUE,asia,-0.517,166.933
 npl,i155,Nepal,south_asia,low_income,landlocked,g77,eastern_religions,Nepal,,,,Nepal,,NP,,NEPAL,NP,NPL,524,,NP,,,,,,,TRUE,asia,28.0,84.0
 nld,i156,Netherlands,europe_central_asia,high_income,coastline,oecd,christian,Netherlands,The Netherlands,,,Netherlands,NETHERLANDS,NL,,NETHERLANDS,NL,NLD,528,,NL,,,,,,,TRUE,europe,52.25,5.75

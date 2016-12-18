@@ -16,6 +16,7 @@ def fix_number_format():
     df = pd.read_csv(fn, dtype=str)
     df.longitude = df.longitude.map(lambda x: format_float_digits(x, 5, keep_decimal=True))
     df.latitude = df.latitude.map(lambda x: format_float_digits(x, 5, keep_decimal=True))
+    df.iso3166_1_numeric = df.iso3166_1_numeric.map(lambda x: x if pd.isnull(x) else str(int(float(x))))
 
     df.to_csv(fn, index=False)
 

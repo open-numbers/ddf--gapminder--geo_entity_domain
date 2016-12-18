@@ -77,7 +77,7 @@ eri,i68,Eritrea,sub_saharan_africa,low_income,coastline,g77,muslim,Eritrea,,,,Er
 eri_a_eth,i69,Eritrea and Ethiopia,sub_saharan_africa,,coastline,others,,Eritrea and Ethiopia,,,,,,Eritrea_Ethiopia,,,,,,,,,,,,,,TRUE,africa,,
 est,i70,Estonia,europe_central_asia,high_income,coastline,others,christian,Estonia,,,,Estonia,ESTONIA,EE,,ESTONIA,EE,EST,233,,EE,,,,,,,TRUE,europe,59.0,26.0
 eth,i71,Ethiopia,sub_saharan_africa,low_income,coastline,g77,christian,Ethiopia,,,,Ethiopia,ETHIOPIA,ET,,ETHIOPIA,ET,ETH,231,,ET,,,,,,,TRUE,africa,9.0,39.5
-fro,i72,Faeroe Islands,europe_central_asia,high_income,coastline,others,christian,Faeroe Islands,,,,Faeroe Islands,,FO,,FAROE ISLANDS,FO,FRO,234,,FO,,,,,,,TRUE,europe,62.0,-7.0
+fro,i72,Faeroe Islands,europe_central_asia,high_income,coastline,others,christian,Faeroe Islands,Faroe Islands,,,Faeroe Islands,,FO,,FAROE ISLANDS,FO,FRO,234,,FO,,,,,,,TRUE,europe,62.0,-7.0
 flk,i73,Falkland Is (Malvinas),america,,coastline,others,christian,Falkland Islands (Malvinas),Falkland Is (Malvinas),Falkland Islands,,Falkland Islands (Malvinas),,FK,,FALKLAND ISLANDS (MALVINAS),FK,FLK,238,,FK,,,,,,,TRUE,americas,-51.75,-59.16667
 fji,i74,Fiji,east_asia_pacific,upper_middle_income,coastline,g77,christian,Fiji,,,,Fiji,,FJ,,FIJI,FJ,FJI,242,,FJ,,,,,,,TRUE,asia,-18.0,178.0
 fin,i75,Finland,europe_central_asia,high_income,coastline,oecd,christian,Finland,,,,Finland,FINLAND,FI,,FINLAND,FI,FIN,246,,FI,,,,,,,TRUE,europe,64.0,26.0
@@ -159,7 +159,7 @@ msr,i149,Montserrat,america,,coastline,others,christian,Montserrat,,,,Montserra,
 mar,i150,Morocco,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Morocco,,,,Morocc,MOROCCO,MA,,MOROCCO,MA,MAR,504,,MA,,,,,,,TRUE,africa,32.0,-6.0
 moz,i151,Mozambique,sub_saharan_africa,low_income,coastline,g77,christian,Mozambique,,,,Mozambique,MOZAMBIQUE,MZ,,MOZAMBIQUE,MZ,MOZ,508,,MZ,,,,,,,TRUE,africa,-18.25,35.0
 mmr,i152,Myanmar,east_asia_pacific,low_income,coastline,g77,eastern_religions,Myanmar,Burma,Myanmar/Burma,MYANMAR (FORMERLY BURMA),Myanmar,,MM,Myanmar [Burma],MYANMAR,MM,MMR,104,,MM,,,,,,,TRUE,asia,21.0,96.0
-nam,i153,Namibia,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Namibia,,,,Namibia,NAMIBIA,NA,,NAMIBIA,NA,NAM,516,,NA,,,,,,,TRUE,africa,-22.0,17.0
+nam,i153,Namibia,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Namibia,,,,Namibia,NAMIBIA,,,NAMIBIA,,NAM,516,,,,,,,,,TRUE,africa,-22.0,17.0
 nru,i154,Nauru,east_asia_pacific,,coastline,others,christian,Nauru,,,,Nauru,,NR,,NAURU,NR,NRU,520,,NR,,,,,,,TRUE,asia,-0.517,166.933
 npl,i155,Nepal,south_asia,low_income,landlocked,g77,eastern_religions,Nepal,,,,Nepal,,NP,,NEPAL,NP,NPL,524,,NP,,,,,,,TRUE,asia,28.0,84.0
 nld,i156,Netherlands,europe_central_asia,high_income,coastline,oecd,christian,Netherlands,The Netherlands,,,Netherlands,NETHERLANDS,NL,,NETHERLANDS,NL,NLD,528,,NL,,,,,,,TRUE,europe,52.25,5.75
@@ -172,7 +172,7 @@ ner,i162,Niger,sub_saharan_africa,low_income,landlocked,g77,muslim,Niger,,,,Nige
 nga,i163,Nigeria,sub_saharan_africa,lower_middle_income,coastline,g77,,Nigeria,,,,Nigeria,NIGERIA,NG,,NIGERIA,NG,NGA,566,,NG,,,,,,,TRUE,africa,10.0,8.0
 niu,i164,Niue,east_asia_pacific,,coastline,others,christian,Niue,,,,Niue,,NU,,NIUE,NU,NIU,570,,NU,,,,,,,TRUE,asia,-19.03333,-169.86667
 nfk,i165,Norfolk Island,east_asia_pacific,,coastline,others,,Norfolk Island,,,,,,NF,,NORFOLK ISLAND,NF,NFK,574,,NF,,,,,,,TRUE,asia,-29.03333,167.95
-prk,i116,North Korea,east_asia_pacific,low_income,coastline,g77,,"Korea, Dem. Rep.",Dem. People's Rep. of Korea,"Korea, North","Korea, Democratic Republic of",Democratic People S Republic Of Korea,,KP,Democratic People's Republic of Korea,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,,KP,Korea DPR,Dem. People's Republic of Korea,Korea (Democratic People's Rep. of),Korea North,,,TRUE,asia,40.0,127.0
+prk,i116,North Korea,east_asia_pacific,low_income,coastline,g77,,"Korea, Dem. Rep.",Dem. People's Rep. of Korea,"Korea, North","Korea, Democratic Republic of",Democratic People S Republic Of Korea,,KP,Democratic People's Republic of Korea,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,,KP,Korea DPR,Dem. People's Republic of Korea,Korea (Democratic People's Rep. of),Korea North,Dem. People's Rep. Korea,,TRUE,asia,40.0,127.0
 yem_north,i252,North Yemen (former),middle_east_north_africa,,coastline,others,,Yemen Arab Republic (Former),,,,,,North_Yemen,,FORMER YEMEN,,,,,,,,,,,,TRUE,asia,,
 cyp_nor,i166,Northern Cyprus,europe_central_asia,,coastline,others,,Northern Cyprus,,,,,,Northern_Cyprus,,,,,,,,,,,,,,TRUE,europe,,
 mnp,i167,Northern Mariana Islands,east_asia_pacific,high_income,coastline,others,christian,Northern Mariana Islands,,,,,,MP,,NORTHERN MARIANA ISLANDS,MP,MNP,580,,MP,,,,,,,TRUE,asia,15.214,145.756

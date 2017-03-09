@@ -136,6 +136,9 @@
                         "name": "is--country"
                     },
                     {
+                        "name": "un_state"
+                    },
+                    {
                         "name": "world_4region"
                     },
                     {
@@ -269,24 +272,6 @@
                     }
                 ],
                 "primaryKey": "main_religion_2008"
-            }
-        },
-        {
-            "path": "ddf--entities--geo--un_state.csv",
-            "name": "ddf--entities--geo--un_state",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "un_state"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "is--un_state"
-                    }
-                ],
-                "primaryKey": "un_state"
             }
         },
         {

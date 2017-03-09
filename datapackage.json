@@ -272,6 +272,24 @@
             }
         },
         {
+            "path": "ddf--entities--geo--un_state.csv",
+            "name": "ddf--entities--geo--un_state",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "un_state"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "is--un_state"
+                    }
+                ],
+                "primaryKey": "un_state"
+            }
+        },
+        {
             "path": "ddf--entities--geo--world_4region.csv",
             "name": "ddf--entities--geo--world_4region",
             "schema": {

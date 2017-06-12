@@ -227,7 +227,7 @@ lca,i189,St. Lucia,america,upper_middle_income,coastline,g77,christian,Saint Luc
 stmar,i190,St. Martin,america,high_income,coastline,others,,Saint Martin,,,,,,MF,,,,,,,,,,,,,,TRUE,FALSE,americas,,
 maf,,St. Martin (French part),,,,,,,,,,,,MF,,,MF,MAF,663,,MF,,,,,,,TRUE,FALSE,americas,,
 vct,i191,St. Vincent and the Grenadines,america,upper_middle_income,coastline,g77,christian,Saint Vincent and the Grenadines,St. Vincent and the Grenadines,St Vincent & the Grenadines,St. Vincent and G.,St. Vincent & The Grenadines,,VC,,SAINT VINCENT AND THE GRENADINES,VC,VCT,670,,VC,Saint Vincent and the Grenadines,,,,,,TRUE,TRUE,americas,13.08333,-61.2
-spm,i192,St.-Pierre-et-Miquelon,america,,coastline,others,christian,Saint-Pierre-et-Miquelon,,,,St. Pierre & Miquelon,,PM,,SAINT PIERRE AND MIQUELON,PM,SPM,666,,PM,,,,,,,TRUE,FALSE,americas,46.83333,-56.33333
+spm,i192,St.-Pierre-et-Miquelon,america,,coastline,others,christian,Saint-Pierre-et-Miquelon,Saint Pierre and Miquelon,,,St. Pierre & Miquelon,,PM,,SAINT PIERRE AND MIQUELON,PM,SPM,666,,PM,,,,,,,TRUE,FALSE,americas,46.83333,-56.33333
 sdn,i214,Sudan,sub_saharan_africa,lower_middle_income,coastline,g77,muslim,Sudan,,,,Sudan,SUDAN,SD,REPUBLIC OF SUDAN,SUDAN,SD,SDN,729,,SD,,,,,,,TRUE,TRUE,africa,16.0,30.0
 sur,i215,Suriname,america,upper_middle_income,coastline,g77,christian,Suriname,,,,Suriname,,SR,,SURINAME,SR,SUR,740,,SR,,,,,,,TRUE,TRUE,americas,4.0,-56.0
 sjm,i216,Svalbard,europe_central_asia,,coastline,others,,Svalbard,,,,,,SJ,,SVALBARD AND JAN MAYEN ISLANDS,SJ,SJM,744,,SJ,,,,,,,TRUE,FALSE,europe,78.0,20.0
@@ -264,7 +264,7 @@ vut,i245,Vanuatu,east_asia_pacific,lower_middle_income,coastline,g77,christian,V
 ven,i246,Venezuela,america,upper_middle_income,coastline,g77,christian,Venezuela,"Venezuela, RB",Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of,Venezuela,VENEZUELA,VE,,VENEZUELA,VE,VEN,862,,VE,,,,,,,TRUE,TRUE,americas,8.0,-66.0
 vnm,i250,Vietnam,east_asia_pacific,lower_middle_income,coastline,g77,eastern_religions,Vietnam,Viet Nam,,,Viet Nam,VIETNAM,VN,,VIET NAM,VN,VNM,704,,VN,,,,,,,TRUE,TRUE,asia,16.16667,107.83333
 vir,i251,Virgin Islands (U.S.),america,high_income,coastline,others,christian,Virgin Islands (U.S.),United States Virgin Islands,,,,,VI,,VIRGIN ISLANDS (U.S.),VI,VIR,850,,VI,,,,,,,TRUE,FALSE,americas,18.34829,-64.98348
-wlf,i244,Wallis et Futuna,east_asia_pacific,,coastline,others,christian,Wallis et Futuna,Wallis and Futuna,,,,,WF,,WALLIS AND FUTUNA ISLANDS,WF,WLF,876,,WF,,,,,,,TRUE,FALSE,asia,-13.3,-176.2
+wlf,i244,Wallis et Futuna,east_asia_pacific,,coastline,others,christian,Wallis et Futuna,Wallis and Futuna,Wallis and Futuna Islands,,,,WF,,WALLIS AND FUTUNA ISLANDS,WF,WLF,876,,WF,,,,,,,TRUE,FALSE,asia,-13.3,-176.2
 pse_west_bank,,West Bank,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,FALSE,asia,,
 deu_west,i248,West Germany,europe_central_asia,,coastline,others,,West Germany,,,,West Germany,,West_Germany,,FEDERAL REPUBLIC OF GERMANY,,,,,,,,,,,,TRUE,FALSE,europe,,
 esh,i249,Western Sahara,middle_east_north_africa,,coastline,others,muslim,Western Sahara,,,,Western Sahara,,EH,,WESTERN SAHARA,EH,ESH,732,,EH,,,,,,,TRUE,FALSE,africa,24.49215,-12.65625

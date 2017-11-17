@@ -13,7 +13,7 @@ from ddf_utils.str import format_float_digits
 def fix_number_format():
     fn = '../../ddf--entities--geo--country.csv'
 
-    df = pd.read_csv(fn, dtype=str)
+    df = pd.read_csv(fn, dtype=str, na_values=[''], keep_default_na=False)
     df.longitude = df.longitude.map(lambda x: format_float_digits(x, 5, keep_decimal=True))
     df.latitude = df.latitude.map(lambda x: format_float_digits(x, 5, keep_decimal=True))
     df.iso3166_1_numeric = df.iso3166_1_numeric.map(lambda x: x if pd.isnull(x) else str(int(float(x))))

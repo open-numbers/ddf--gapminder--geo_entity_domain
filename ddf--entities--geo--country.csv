@@ -60,7 +60,7 @@ cri,i52,Costa Rica,america,upper_middle_income,coastline,g77,christian,Costa Ric
 civ,i53,Cote d'Ivoire,sub_saharan_africa,lower_middle_income,coastline,g77,,Cote d'Ivoire,Cote Divoire,Côte d'Ivoire,Côte d'Ivoire,Cote D Ivoire,COTE D'IVOIRE,CI,Ivory Coast,COTE D'IVOIRE,CI,CIV,384,,CI,Côte d'Ivoire,Cote d'Ivoire,Cote_dIvoire,,,,TRUE,TRUE,africa,8.0,-5.5
 hrv,i54,Croatia,europe_central_asia,high_income,coastline,others,christian,Croatia,,,,Croatia,CROATIA,HR,,CROATIA (local name: Hrvatska),HR,HRV,191,,HR,,,,,,,TRUE,TRUE,europe,45.16667,15.5
 cub,i55,Cuba,america,upper_middle_income,coastline,g77,christian,Cuba,,,,Cuba,,CU,,CUBA,CU,CUB,192,,CU,,,,,,,TRUE,TRUE,americas,22.0,-79.5
-nld_curacao,i280,Curaçao,america,high_income,coastline,others,christian,,,,,,,CW,,CURACAO,CW,CUW,531,,CW,,,,,,,TRUE,FALSE,americas,12.16667,-68.96667
+nld_curacao,i280,Curaçao,america,high_income,coastline,others,christian,,Curacao,,,,,CW,,CURACAO,CW,CUW,531,,CW,,,,,,,TRUE,FALSE,americas,12.16667,-68.96667
 cyp,i56,Cyprus,europe_central_asia,high_income,coastline,others,christian,Cyprus,,,,Cyprus,CYPRUS,CY,,CYPRUS,CY,CYP,196,,CY,,,,,,,TRUE,TRUE,europe,35.0,33.0
 cze,i57,Czech Republic,europe_central_asia,high_income,landlocked,oecd,christian,Czech Rep.,Czech Republic,Czech Rep,,Czech Republic,CZECH REPUBLIC,CZ,,CZECH REPUBLIC,CZ,CZE,203,,CZ,,,,,,,TRUE,TRUE,europe,49.75,15.0
 cheslo,i58,Czechoslovakia,europe_central_asia,,landlocked,others,,Czechoslovakia,,,,Czechoslovakia,,Czechoslovakia,,,,,,,,,,,,,,TRUE,FALSE,europe,,
@@ -106,7 +106,7 @@ hti,i95,Haiti,america,low_income,coastline,g77,christian,Haiti,,,,Haiti,HAITI,HT
 heard_a_mcd,,Heard and McDonald Islands,,,,,,,,,,,,HM,,,HM,HMD,334,,HM,,,,,,,TRUE,FALSE,asia,,
 hos,i96,Holy See,europe_central_asia,,landlocked,others,christian,Holy See,,,,Holy_See,,VA,,,VA,VAT,336,,VA,Vatican City,,,,,,TRUE,TRUE,europe,41.90236,12.45332
 hnd,i97,Honduras,america,lower_middle_income,coastline,g77,christian,Honduras,,,,Honduras,HONDURAS,HN,,HONDURAS,HN,HND,340,,HN,,,,,,,TRUE,TRUE,americas,15.0,-86.5
-hkg,i98,"Hong Kong, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Hong Kong, China","Hong Kong, China (SAR)",Hongkong,Hong Kong SAR,Hong Kong,HONG KONG,HK,"Hong Kong SAR, China",HONG KONG,HK,HKG,344,,HK,"China, Hong Kong SAR",HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,,,,,TRUE,FALSE,asia,22.28552,114.15769
+hkg,i98,"Hong Kong, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Hong Kong, China","Hong Kong, China (SAR)",Hongkong,Hong Kong SAR,Hong Kong,HONG KONG,HK,"Hong Kong SAR, China",HONG KONG,HK,HKG,344,,HK,"China, Hong Kong SAR",HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,China Hong Kong SAR,,,,TRUE,FALSE,asia,22.28552,114.15769
 hun,i99,Hungary,europe_central_asia,upper_middle_income,landlocked,oecd,christian,Hungary,,,,Hungary,HUNGARY,HU,,HUNGARY,HU,HUN,348,,HU,,,,,,,TRUE,TRUE,europe,47.0,20.0
 isl,i100,Iceland,europe_central_asia,high_income,coastline,oecd,christian,Iceland,,,,Iceland,,IS,,ICELAND,IS,ISL,352,,IS,,,,,,,TRUE,TRUE,europe,65.0,-18.0
 ind,i101,India,south_asia,lower_middle_income,coastline,g77,eastern_religions,India,,,,India,INDIA,IN,,INDIA,IN,IND,356,,IN,,,,,,,TRUE,TRUE,asia,22.0,79.0

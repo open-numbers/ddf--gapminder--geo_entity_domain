@@ -3,7 +3,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-05-12T01:53:59.747147+00:00",
+    "created": "2018-06-08T03:59:22.615714+00:00",
     "resources": [
         {
             "path": "ddf--concepts.csv",
@@ -357,6 +357,24 @@
                     }
                 ],
                 "primaryKey": "geo"
+            }
+        },
+        {
+            "path": "ddf--synonyms--country.csv",
+            "name": "ddf--synonyms--country",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "synonym"
+                    }
+                ],
+                "primaryKey": [
+                    "synonym",
+                    "country"
+                ]
             }
         }
     ],
@@ -1536,6 +1554,28 @@
                 ]
             }
         ],
-        "datapoints": []
+        "datapoints": [],
+        "synonyms": [
+            {
+                "primaryKey": [
+                    "country",
+                    "synonym"
+                ],
+                "value": null,
+                "resources": [
+                    "ddf--synonyms--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "synonym"
+                ],
+                "value": null,
+                "resources": [
+                    "ddf--synonyms--country"
+                ]
+            }
+        ]
     }
 }

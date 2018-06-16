@@ -3,7 +3,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-06-08T03:59:22.615714+00:00",
+    "created": "2018-06-16T02:22:59.343095+00:00",
     "resources": [
         {
             "path": "ddf--concepts.csv",
@@ -1558,7 +1558,7 @@
         "synonyms": [
             {
                 "primaryKey": [
-                    "country",
+                    "geo",
                     "synonym"
                 ],
                 "value": null,
@@ -1568,7 +1568,7 @@
             },
             {
                 "primaryKey": [
-                    "geo",
+                    "country",
                     "synonym"
                 ],
                 "value": null,

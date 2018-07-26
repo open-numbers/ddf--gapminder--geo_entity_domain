@@ -115,7 +115,7 @@ irn,i103,Iran,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,
 irq,i104,Iraq,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Iraq,,,,Iraq,IRAQ,IQ,,IRAQ,IQ,IRQ,368,,IQ,,,,,,,TRUE,TRUE,asia,33.0,44.0
 irl,i105,Ireland,europe_central_asia,high_income,coastline,oecd,christian,Ireland,,,,Ireland,IRELAND,IE,,IRELAND,IE,IRL,372,,IE,,,,,,,TRUE,TRUE,europe,53.0,-8.0
 gbm,i106,Isle of Man,europe_central_asia,high_income,coastline,others,christian,Isle of Man,,,,,,IM,,,IM,IMN,833,,IM,,,,,,,TRUE,FALSE,europe,54.15,-4.48333
-isr,i107,Israel,middle_east_north_africa,high_income,coastline,others,,Israel,,,,Israel,ISRAEL,IL,,ISRAEL,IL,ISR,376,,IL,,,,,,,TRUE,TRUE,asia,31.5,34.75
+isr,i107,Israel,middle_east_north_africa,high_income,coastline,oecd,,Israel,,,,Israel,ISRAEL,IL,,ISRAEL,IL,ISR,376,,IL,,,,,,,TRUE,TRUE,asia,31.5,34.75
 ita,i108,Italy,europe_central_asia,high_income,coastline,oecd,christian,Italy,,,,Italy (Including San Marino),ITALY,IT,,ITALY,IT,ITA,380,,IT,,,,,,,TRUE,TRUE,europe,42.83333,12.83333
 jam,i109,Jamaica,america,upper_middle_income,coastline,g77,christian,Jamaica,,,,Jamaica,JAMAICA,JM,,JAMAICA,JM,JAM,388,,JM,,,,,,,TRUE,TRUE,americas,18.16667,-77.25
 jpn,i110,Japan,east_asia_pacific,high_income,coastline,oecd,eastern_religions,Japan,,,,Japan,JAPAN,JP,JAPAN (EXCLUDING THE RUYUKU ISLANDS),JAPAN,JP,JPN,392,,JP,,,,,,,TRUE,TRUE,asia,35.68536,139.75309

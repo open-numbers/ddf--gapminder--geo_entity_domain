@@ -59,6 +59,7 @@ cub,Cuba
 cyp,Cyprus
 cze,Czech Rep.
 cheslo,Czechoslovakia
+cheslo,"Czechoslovakia, Former"
 dnk,Denmark
 dji,Djibouti
 dma,Dominica
@@ -226,6 +227,7 @@ swe,Sweden
 che,Switzerland
 syr,Syria
 twn,Taiwan
+twn,China: Province of Taiwan only
 tjk,Tajikistan
 tza,Tanzania
 tha,Thailand
@@ -248,6 +250,7 @@ korea_union,"Korea, United"
 usa,United States
 ury,Uruguay
 ussr,USSR
+ussr,"USSR, Former"
 uzb,Uzbekistan
 vut,Vanuatu
 ven,Venezuela
@@ -258,6 +261,7 @@ deu_west,West Germany
 esh,Western Sahara
 yem,"Yemen, Rep."
 yug,Yugoslavia
+yug,"Yugoslavia, Former"
 zmb,Zambia
 zwe,Zimbabwe
 afg,Islamic Republic of Afghanistan
@@ -297,6 +301,7 @@ mmr,Burma
 nld,The Netherlands
 ant,Neth. Antilles
 prk,Dem. People's Rep. of Korea
+prk,Democratic Peoples's Republic of Korea
 pse,Occupied Palestinian Territory
 png,Papua NG
 pcn,Pitcairn Islands
@@ -314,6 +319,7 @@ stbar,St. Barth√©lemy
 kna,St. Kitts and Nevis
 lca,St. Lucia
 vct,St. Vincent and the Grenadines
+vct,Saint Vincent and Grenadines
 spm,Saint Pierre and Miquelon
 sjm,Svalbard and Jan Mayen
 syr,Syrian Arab Republic
@@ -649,6 +655,7 @@ dji,DJ
 dma,DM
 dom,DO
 deu_east,East_Germany
+deu_east,"Germany, Former Democratic Republic"
 ecu,EC
 egy,EG
 slv,SV
@@ -781,6 +788,7 @@ sen,SN
 srb,RS
 scg,Serbia_Montenegro
 scg_ex_kos,Serbia_excluding_Kosovo
+scg,"Serbia and Montenegro, Former"
 syc,SC
 sle,SL
 sgp,SG
@@ -838,8 +846,10 @@ vut,VU
 ven,VE
 vnm,VN
 vir,VI
+vir,Virgin Islands (USA)
 wlf,WF
 deu_west,West_Germany
+deu_west,"Germany, Former Federal Republic"
 esh,EH
 yem,YE
 zmb,ZM
@@ -968,6 +978,7 @@ tuv,TUVALU
 vut,VANUATU
 vnm,VIET NAM
 vir,VIRGIN ISLANDS (U.S.)
+vir,"Virgin Islands, U.S."
 wlf,WALLIS AND FUTUNA ISLANDS
 deu_west,FEDERAL REPUBLIC OF GERMANY
 esh,WESTERN SAHARA

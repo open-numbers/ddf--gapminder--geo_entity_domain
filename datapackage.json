@@ -3,11 +3,15 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-06-16T02:22:59.343095+00:00",
+    "title": "ddf--gapminder--geo_entity_domain",
+    "description": "",
+    "author": "",
+    "license": "",
+    "created": "2024-08-21T02:53:35.613121+00:00",
     "resources": [
         {
-            "path": "ddf--concepts.csv",
             "name": "ddf--concepts",
+            "path": "ddf--concepts.csv",
             "schema": {
                 "fields": [
                     {
@@ -41,12 +45,14 @@
                         "name": "tags"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--country.csv",
             "name": "ddf--entities--geo--country",
+            "path": "ddf--entities--geo--country.csv",
             "schema": {
                 "fields": [
                     {
@@ -149,12 +155,14 @@
                         "name": "longitude"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--g77_and_oecd_countries.csv",
             "name": "ddf--entities--geo--g77_and_oecd_countries",
+            "path": "ddf--entities--geo--g77_and_oecd_countries.csv",
             "schema": {
                 "fields": [
                     {
@@ -173,12 +181,14 @@
                         "name": "is--g77_and_oecd_countries"
                     }
                 ],
-                "primaryKey": "g77_and_oecd_countries"
+                "primaryKey": [
+                    "g77_and_oecd_countries"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--global.csv",
             "name": "ddf--entities--geo--global",
+            "path": "ddf--entities--geo--global.csv",
             "schema": {
                 "fields": [
                     {
@@ -200,12 +210,14 @@
                         "name": "longitude"
                     }
                 ],
-                "primaryKey": "geo"
+                "primaryKey": [
+                    "geo"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--income_groups.csv",
             "name": "ddf--entities--geo--income_groups",
+            "path": "ddf--entities--geo--income_groups.csv",
             "schema": {
                 "fields": [
                     {
@@ -224,12 +236,14 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "income_groups"
+                "primaryKey": [
+                    "income_groups"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--landlocked.csv",
             "name": "ddf--entities--geo--landlocked",
+            "path": "ddf--entities--geo--landlocked.csv",
             "schema": {
                 "fields": [
                     {
@@ -248,12 +262,14 @@
                         "name": "is--landlocked"
                     }
                 ],
-                "primaryKey": "landlocked"
+                "primaryKey": [
+                    "landlocked"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--main_religion_2008.csv",
             "name": "ddf--entities--geo--main_religion_2008",
+            "path": "ddf--entities--geo--main_religion_2008.csv",
             "schema": {
                 "fields": [
                     {
@@ -272,12 +288,14 @@
                         "name": "is--main_religion_2008"
                     }
                 ],
-                "primaryKey": "main_religion_2008"
+                "primaryKey": [
+                    "main_religion_2008"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--world_4region.csv",
             "name": "ddf--entities--geo--world_4region",
+            "path": "ddf--entities--geo--world_4region.csv",
             "schema": {
                 "fields": [
                     {
@@ -314,12 +332,14 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "geo"
+                "primaryKey": [
+                    "geo"
+                ]
             }
         },
         {
-            "path": "ddf--entities--geo--world_6region.csv",
             "name": "ddf--entities--geo--world_6region",
+            "path": "ddf--entities--geo--world_6region.csv",
             "schema": {
                 "fields": [
                     {
@@ -356,12 +376,14 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "geo"
+                "primaryKey": [
+                    "geo"
+                ]
             }
         },
         {
-            "path": "ddf--synonyms--country.csv",
             "name": "ddf--synonyms--country",
+            "path": "ddf--synonyms--country.csv",
             "schema": {
                 "fields": [
                     {
@@ -1558,7 +1580,7 @@
         "synonyms": [
             {
                 "primaryKey": [
-                    "geo",
+                    "country",
                     "synonym"
                 ],
                 "value": null,
@@ -1568,7 +1590,7 @@
             },
             {
                 "primaryKey": [
-                    "country",
+                    "geo",
                     "synonym"
                 ],
                 "value": null,
